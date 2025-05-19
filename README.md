@@ -1,3 +1,1 @@
-Auteur : JUSTIN Thomas
-         SOW Jordan
-         BONNIER Gabin
+Auteur : JUSTIN Thomas / SOW Jordan / BONNIER Gabin
